@@ -19,7 +19,7 @@ Security
 
     Insights
 
-obelus/ui.lua
+xs/ui.lua
 @boredddd
 boredddd Add files via upload
 Latest commit 88d2aee 8 hours ago
@@ -29,7 +29,7 @@ History
 -- // Library Tables
 local library = {}
 local utility = {}
-local obelus = {
+local xs = {
 	connections = {}
 }
 -- // Variables
